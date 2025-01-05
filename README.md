@@ -1,0 +1,1 @@
+# https-github.com-korysergey55-goit-pycore-hw-05
